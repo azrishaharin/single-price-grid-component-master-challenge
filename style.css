@@ -1,5 +1,11 @@
+html {
+  overflow-y: scroll;
+}
+
 body {
+  margin: 0px;
   background-color: #e5eff5;
+  overflow-y: scroll;
 }
 
 h1 {
@@ -187,7 +193,7 @@ h4 {
           box-shadow: 0px 5px 5px rgba(0, 0, 0, 0.1);
 }
 
-@media (max-width: 600px) {
+@media (max-width: 375px) {
   .main-container {
     padding: 16px 16px;
   }
