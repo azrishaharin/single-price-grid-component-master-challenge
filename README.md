@@ -5,5 +5,5 @@ First challenge project from FrontEnd Mentor
 Desktop version
 ![](screenshot/desktop%20version.png)
 
-Mobile version
+Mobile version <br />
 ![](screenshot/mobile%20version.png)
